@@ -1,0 +1,14 @@
+[
+    {
+        "tripID": "vietnam2022",
+        "tripName": "Vietnam 2022",
+        "tripStartDate": "2022-11-13",
+        "tripEndDate": "2022-11-29"
+    },
+    {
+        "tripID": "japan2023",
+        "tripName": "Japan 2023",
+        "tripStartDate": "2023-5-10",
+        "tripEndDate": "2023-5-19"
+    }
+]
