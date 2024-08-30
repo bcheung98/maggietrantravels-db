@@ -1,5 +1,11 @@
 [
     {
+        "tripID": "seattle2022",
+        "tripName": "Seattle 2022",
+        "tripStartDate": "2022-4-13",
+        "tripEndDate": "2022-4-16"
+    },
+    {
         "tripID": "vietnam2022",
         "tripName": "Vietnam 2022",
         "tripStartDate": "2022-11-13",
