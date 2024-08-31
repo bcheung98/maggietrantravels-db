@@ -3,18 +3,136 @@
         "tripID": "seattle2022",
         "tripName": "Seattle 2022",
         "tripStartDate": "2022-4-13",
-        "tripEndDate": "2022-4-16"
+        "tripEndDate": "2022-4-16",
+        "itinerary": [
+            {
+                "title": "Seattle arrival - Pike Place Market",
+                "description": ""
+            },
+            {
+                "title": "UW - Museum of Flight - Space Needle - Chihuly Garden and Glass",
+                "description": ""
+            },
+            {
+                "title": "Skagit Valley Tulip Festival - Gas Works Park",
+                "description": ""
+            },
+            {
+                "title": "Leavenworth - Snoqualmie Falls - Seattle departure",
+                "description": ""
+            }
+        ]
     },
     {
         "tripID": "vietnam2022",
         "tripName": "Vietnam 2022",
         "tripStartDate": "2022-11-13",
-        "tripEndDate": "2022-11-29"
+        "tripEndDate": "2022-11-29",
+        "itinerary": [
+            {
+                "title": "Hanoi arrival",
+                "description": ""
+            },
+            {
+                "title": "Hanoi - Hoalu, Tamcoc - Hanoi",
+                "description": ""
+            },
+            {
+                "title": "Hanoi - Drive to Sa Pa",
+                "description": ""
+            },
+            {
+                "title": "Sa Pa - Cat Cat - Y Linh Ho",
+                "description": ""
+            },
+            {
+                "title": "Heaven Gate - Fansipan - Drive to Hanoi",
+                "description": ""
+            },
+            {
+                "title": "Hanoi - Bai Tu Long Bay",
+                "description": ""
+            },
+            {
+                "title": "Bai Tu Long Bay",
+                "description": ""
+            },
+            {
+                "title": "Halong - Hanoi / Fly to Hue",
+                "description": ""
+            },
+            {
+                "title": "Hue city tour",
+                "description": ""
+            },
+            {
+                "title": "Hue - Da Nang - Hoi An",
+                "description": ""
+            },
+            {
+                "title": "Hoi An - Da Nang - Ba Na Hills - Fly to Ho Chi Minh City",
+                "description": ""
+            },
+            {
+                "title": "Ho Chi Minh City",
+                "description": ""
+            },
+            {
+                "title": "Vinh Long",
+                "description": ""
+            },
+            {
+                "title": "Tan Phong Island - Cai Be",
+                "description": ""
+            },
+            {
+                "title": "Ho Chi Minh City - Departure",
+                "description": ""
+            }
+        ]
     },
     {
         "tripID": "japan2023",
         "tripName": "Japan 2023",
         "tripStartDate": "2023-5-10",
-        "tripEndDate": "2023-5-19"
+        "tripEndDate": "2023-5-19",
+        "itinerary": [
+            {
+                "title": "Tokyo arrival",
+                "description": ""
+            },
+            {
+                "title": "Tokyo",
+                "description": ""
+            },
+            {
+                "title": "Tokyo - Nikko",
+                "description": ""
+            },
+            {
+                "title": "Nikko - Nagano",
+                "description": ""
+            },
+            {
+                "title": "Nagano - Takayama - Kanazawa",
+                "description": ""
+            },
+            {
+                "title": "Kanazawa - Kyoto",
+                "description": ""
+            },
+            {
+                "title": "Kyoto - Hamamatsu",
+                "description": ""
+            },
+            {
+                "title": "Hamamatsu - Tokyo",
+                "description": ""
+            },
+            {
+                "title": "Tokyo departure",
+                "description": ""
+            }
+        ]
     }
 ]
