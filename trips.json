@@ -2,8 +2,8 @@
     {
         "tripID": "seattle2022",
         "tripName": "Seattle 2022",
-        "tripStartDate": "2022-4-13",
-        "tripEndDate": "2022-4-16",
+        "tripStartDate": "2022-04-13",
+        "tripEndDate": "2022-04-16",
         "itinerary": [
             {
                 "title": "Seattle arrival - Pike Place Market",
@@ -94,8 +94,8 @@
     {
         "tripID": "japan2023",
         "tripName": "Japan 2023",
-        "tripStartDate": "2023-5-10",
-        "tripEndDate": "2023-5-19",
+        "tripStartDate": "2023-05-10",
+        "tripEndDate": "2023-05-19",
         "itinerary": [
             {
                 "title": "Tokyo arrival",
