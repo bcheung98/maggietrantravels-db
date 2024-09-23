@@ -4,6 +4,13 @@
         "tripName": "Seattle 2022",
         "tripStartDate": "2022-04-13",
         "tripEndDate": "2022-04-16",
+        "mapData": {
+            "center": [
+                47.85177912,
+                -121.4591051
+            ],
+            "zoom": 8
+        },
         "itinerary": [
             {
                 "title": "Seattle arrival - Pike Place Market",
@@ -28,6 +35,13 @@
         "tripName": "Vietnam 2022",
         "tripStartDate": "2022-11-13",
         "tripEndDate": "2022-11-29",
+        "mapData": {
+            "center": [
+                16.0192595,
+                106.91296
+            ],
+            "zoom": 5
+        },
         "itinerary": [
             {
                 "title": "Hanoi arrival",
@@ -96,6 +110,13 @@
         "tripName": "Japan 2023",
         "tripStartDate": "2023-05-10",
         "tripEndDate": "2023-05-19",
+        "mapData": {
+            "center": [
+                35.4952554,
+                138.0543546
+            ],
+            "zoom": 7
+        },
         "itinerary": [
             {
                 "title": "Tokyo arrival",
