@@ -14,19 +14,39 @@
         "itinerary": [
             {
                 "title": "Seattle arrival - Pike Place Market",
-                "description": ""
+                "description": "",
+                "location": [
+                    47.609444,
+                    -122.341667
+                ],
+                "mapMarkerLabel": "Pike Place Market"
             },
             {
                 "title": "UW - Museum of Flight - Space Needle - Chihuly Garden and Glass",
-                "description": ""
+                "description": "",
+                "location": [
+                    47.6204,
+                    -122.3491
+                ],
+                "mapMarkerLabel": "Space Needle"
             },
             {
                 "title": "Skagit Valley Tulip Festival - Gas Works Park",
-                "description": ""
+                "description": "",
+                "location": [
+                    48.416667,
+                    -122.416667
+                ],
+                "mapMarkerLabel": "Skagit Valley Tulip Festival"
             },
             {
                 "title": "Leavenworth - Snoqualmie Falls - Seattle departure",
-                "description": ""
+                "description": "",
+                "location": [
+                    47.595,
+                    -120.662778
+                ],
+                "mapMarkerLabel": "Leavenworth"
             }
         ]
     },
@@ -45,11 +65,21 @@
         "itinerary": [
             {
                 "title": "Hanoi arrival",
-                "description": ""
+                "description": "",
+                "location": [
+                    21,
+                    105.85
+                ],
+                "mapMarkerLabel": "Hanoi"
             },
             {
                 "title": "Hanoi - Hoalu, Tamcoc - Hanoi",
-                "description": ""
+                "description": "",
+                "location": [
+                    20.286111,
+                    105.906667
+                ],
+                "mapMarkerLabel": "Tam Cốc – Bích Độn"
             },
             {
                 "title": "Hanoi - Drive to Sa Pa",
@@ -57,19 +87,39 @@
             },
             {
                 "title": "Sa Pa - Cat Cat - Y Linh Ho",
-                "description": ""
+                "description": "",
+                "location": [
+                    22.340556,
+                    103.830833
+                ],
+                "mapMarkerLabel": "Sa Pa"
             },
             {
                 "title": "Heaven Gate - Fansipan - Drive to Hanoi",
-                "description": ""
+                "description": "",
+                "location": [
+                    22.303333,
+                    103.775
+                ],
+                "mapMarkerLabel": "Fansipan"
             },
             {
                 "title": "Hanoi - Bai Tu Long Bay",
-                "description": ""
+                "description": "",
+                "location": [
+                    20.9,
+                    107.2
+                ],
+                "mapMarkerLabel": "Bai Tu Long Bay"
             },
             {
                 "title": "Bai Tu Long Bay",
-                "description": ""
+                "description": "",
+                "location": [
+                    20.795,
+                    107.011
+                ],
+                "mapMarkerLabel": "Cát Bà Island"
             },
             {
                 "title": "Halong - Hanoi / Fly to Hue",
@@ -77,27 +127,55 @@
             },
             {
                 "title": "Hue city tour",
-                "description": ""
+                "description": "",
+                "location": [
+                    16.466667,
+                    107.579167
+                ],
+                "mapMarkerLabel": "Huế"
             },
             {
                 "title": "Hue - Da Nang - Hoi An",
-                "description": ""
+                "description": "",
+                "location": [
+                    15.883333,
+                    108.333333
+                ],
+                "mapMarkerLabel": "Hội An"
             },
             {
                 "title": "Hoi An - Da Nang - Ba Na Hills - Fly to Ho Chi Minh City",
-                "description": ""
+                "description": "",
+                "location": [
+                    15.994671,
+                    107.9941082
+                ],
+                "mapMarkerLabel": "Bà Nà Hills"
             },
             {
                 "title": "Ho Chi Minh City",
-                "description": ""
+                "description": "",
+                "location": [
+                    10.775556,
+                    106.701944
+                ]
             },
             {
                 "title": "Vinh Long",
-                "description": ""
+                "description": "",
+                "location": [
+                    10.25,
+                    105.966667
+                ]
             },
             {
                 "title": "Tan Phong Island - Cai Be",
-                "description": ""
+                "description": "",
+                "location": [
+                    9.2206,
+                    105.3414
+                ],
+                "mapMarkerLabel": "Tân Phong"
             },
             {
                 "title": "Ho Chi Minh City - Departure",
@@ -120,35 +198,75 @@
         "itinerary": [
             {
                 "title": "Tokyo arrival",
-                "description": ""
+                "description": "",
+                "location": [
+                    35.765278,
+                    140.385556
+                ],
+                "mapMarkerLabel": ""
             },
             {
                 "title": "Tokyo",
-                "description": ""
+                "description": "",
+                "location": [
+                    35.689722,
+                    139.692222
+                ],
+                "mapMarkerLabel": ""
             },
             {
                 "title": "Tokyo - Nikko",
-                "description": ""
+                "description": "",
+                "location": [
+                    36.719833,
+                    139.698167
+                ],
+                "mapMarkerLabel": "Nikko"
             },
             {
                 "title": "Nikko - Nagano",
-                "description": ""
+                "description": "",
+                "location": [
+                    36.648611,
+                    138.194722
+                ],
+                "mapMarkerLabel": "Nagano"
             },
             {
                 "title": "Nagano - Takayama - Kanazawa",
-                "description": ""
+                "description": "",
+                "location": [
+                    36.146028,
+                    137.252167
+                ],
+                "mapMarkerLabel": "Takayama"
             },
             {
                 "title": "Kanazawa - Kyoto",
-                "description": ""
+                "description": "",
+                "location": [
+                    36.561056,
+                    136.656417
+                ],
+                "mapMarkerLabel": "Kanazawa"
             },
             {
                 "title": "Kyoto - Hamamatsu",
-                "description": ""
+                "description": "",
+                "location": [
+                    35.011667,
+                    135.768333
+                ],
+                "mapMarkerLabel": "Kyoto"
             },
             {
                 "title": "Hamamatsu - Tokyo",
-                "description": ""
+                "description": "",
+                "location": [
+                    34.710833,
+                    137.7275
+                ],
+                "mapMarkerLabel": "Hamamatsu"
             },
             {
                 "title": "Tokyo departure",
